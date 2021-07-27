@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(88, 228, 197);
+}
+
+h1{
+  position: absolute;
+  top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   font-size: 80px;
+    border-radius: 12px;
+    padding-bottom: 120px; 
+}
+
+button
+{
+  background-color: #6B78B4;
+  margin-top: 100px;
+  border: 8px solid rgb(183, 223, 255);
+  border-radius: 12px;
+  font-size:xx-large ;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-decoration: none;
+  outline: none;
+  color: white;
+  padding: 20px;
+  cursor: pointer;
+}
